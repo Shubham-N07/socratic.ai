@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-You have to give your gemini API key as environmental variable named NEXT_PUBLIC_GEMINI_API_KEY= "YOUR_GEMINI_API_KEY"
+You have to give your gemini API key as environmental variable named NEXT_PUBLIC_GEMINI_API_KEY= "YOUR_GEMINI_API_KEY".
 Also you have to locally host ollama model and your supabase backend API key
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
